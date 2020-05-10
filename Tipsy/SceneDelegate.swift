@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Tipsy
 //
-//  Created by Angela Yu on 09/09/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by MoHaMeD on 5/10/20.
+//  Copyright © 2020 by MoHaMeD. All rights reserved.
 //
 
 import UIKit
